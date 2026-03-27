@@ -8,7 +8,8 @@ namespace csharp_playground
         {
             //PartI.Test();
             //TakingsInput.TakingInput();
-            BuiltInType.DataType();
+            //BuiltInType.DataType();
+            CommonOperator.Operators();
         }
     }
 }
